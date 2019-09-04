@@ -1,0 +1,1 @@
+To be opened with Inkscape
