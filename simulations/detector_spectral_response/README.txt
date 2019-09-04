@@ -1,3 +1,5 @@
+Data used in Figure 5.
+
 The data file in this folder contains two matrices containing simulated energy deposition on the 12 HED BGO crystals.
 This is only valid for the ASIM 180916 event.
 

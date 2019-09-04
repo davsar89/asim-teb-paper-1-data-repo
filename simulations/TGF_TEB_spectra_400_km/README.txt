@@ -1,3 +1,6 @@
+Data use for Figure A1.
+It is specific for the geometrical configuration of the ASIM TEB TGF event 180916
+
 The "data" folder contains simulated spectra of the event in the MATLAB .mat format (can be openned with MATLAB or python / scipy).
 
 The folder "figures" contains the plots of the corresponding data.

@@ -1,0 +1,2 @@
+This folder contains data of the Figure A2 "Simulated fluence ratio between photons (TGF) and leptons (TEB) arriving at the ISS."
+It is specific for the geometrical configuration of the ASIM TEB TGF event 180916
